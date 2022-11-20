@@ -28,11 +28,6 @@ panorama_9CC0D2B4_96B4_0FAC_41DF_3CE47EFB4CAB.label = 6
 panorama_9CC06E2E_96B4_36BC_41DE_9A0ECFDAFD0A.label = 7
 panorama_9CC0F959_96B4_1AE4_41DF_66AF4E6D2CC1.label = 9
 
-## Skin
-
-### Button
-Button_8321F250_96DC_0EE4_41A0_9BDE6F2BF34F.label = FOTOS
-
 ## Tour
 
 ### Description

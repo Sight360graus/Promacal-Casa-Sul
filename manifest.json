@@ -1,4 +1,6 @@
 {
+ "name": "Promacal Casa Sul",
+ "description": "Faça um Tour virtual 360 graus e conheça nossa Loja!",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +38,8 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Promacal Casa Sul",
- "description": "Faça um Tour virtual 360 graus e conheça nossa Loja!",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
+ "start_url": "index.htm",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "background_color": "#FFFFFF",
+ "display": "fullscreen"
 }
